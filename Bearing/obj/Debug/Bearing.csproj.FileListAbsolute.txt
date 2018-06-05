@@ -1,0 +1,7 @@
+C:\Users\Erik\Source\Bearing\Bearing\bin\Debug\Bearing.exe.config
+C:\Users\Erik\Source\Bearing\Bearing\bin\Debug\Bearing.exe
+C:\Users\Erik\Source\Bearing\Bearing\bin\Debug\Bearing.pdb
+C:\Users\Erik\Source\Bearing\Bearing\obj\Debug\Bearing.csprojResolveAssemblyReference.cache
+C:\Users\Erik\Source\Bearing\Bearing\obj\Debug\Bearing.exe
+C:\Users\Erik\Source\Bearing\Bearing\obj\Debug\Bearing.pdb
+C:\Users\Erik\Source\Bearing\Bearing\obj\Debug\Bearing.csproj.CoreCompileInputs.cache
